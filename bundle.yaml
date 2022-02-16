@@ -1,5 +1,5 @@
 apiVersion: "1"
-version: "2"
+version: "2022.02.16"
 id: "frou-fe-ops-controller"
 description: "CloudBees CI configuration bundle for the frou-fe ops-controller Controller"
 availabilityPattern: "cloudbees-ci-casc-workshop/frou-fe/ops-controller"
