@@ -1,5 +1,5 @@
 apiVersion: "1"
-version: "3"
+version: "3b"
 id: "cbci-casc-workshop-ops-controller"
 description: "CloudBees CI configuration bundle for the cbci-casc-workshop ops-controller Controller"
 availabilityPattern: "{GitHub Org}/{controller name}"
